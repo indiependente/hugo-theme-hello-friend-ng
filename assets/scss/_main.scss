@@ -101,6 +101,14 @@ img {
   }
 }
 
+img.portrait {
+    border-radius: 50%;
+    border: 10px solid;
+    margin: 2em 3em;
+    width: 300px;
+    height: 300px;
+}
+
 figure {
   display: table;
   max-width: 100%;
